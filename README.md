@@ -3,10 +3,11 @@ Projeto Modulo 21 curso Java Web - JDevTreinamentos
 
 Este projeto didático foi desenvolvido durante o treinamento FullStack Java Web.
 
-Foram abordados diversas temas neste curso. Entre elas.
+Foram abordados e desenvolvidos alguns exemplos de diversas temas. Entre elas.
 
 - JSP
 - Java Servlet
+- PostgreesSQL
 - Filter
 - JSon
 - Capturando exceções no Servlet
