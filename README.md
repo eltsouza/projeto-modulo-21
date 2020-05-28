@@ -15,4 +15,4 @@ Foram abordados e desenvolvidos alguns exemplos de diversas temas. Entre elas.
 - JQuery(Foi implementado um dataTable, progressbar e um calendário com o plugin calendar io)
 - Java Scrip(Foi implementado um exemplo de progressbar)
 - Relatórios com IReport
-- Gráficos (Utilizando JavaScrip, JJQuery e a biblioteca da Google Gson que transforma uma lista em Json)
+- Gráficos GrantView(Utilizando JavaScrip, JQuery e a biblioteca da Google Gson que transforma uma lista em Json)
